@@ -1,0 +1,564 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs",
+          "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/edit/main/website/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\chiem\\Documents\\GitHub\\chiemhdinv\\sidebars.js",
+          "contentPath": "C:\\Users\\chiem\\Documents\\GitHub\\chiemhdinv\\docs",
+          "contentPathLocalized": "C:\\Users\\chiem\\Documents\\GitHub\\chiemhdinv\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Hướng dẫn sử dụng",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/HD-choKeToan"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-extras/HD-choNguoiMua"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Hướng dẫn tích hợp",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/Mohinhtichhop"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/PublishService"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/BusinessService"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/PortalService"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-basics/CodeExample"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "doc",
+                "id": "danhsach"
+              }
+            ]
+          },
+          "docs": [
+            {
+              "unversionedId": "danhsach",
+              "id": "danhsach",
+              "isDocsHomePage": false,
+              "title": "Danh sách đối tác và HD",
+              "description": "Các đơn vị kinh doanh TTKD VNPT T/TP xin gửi yêu cầu tới BU KDSDN- Ban KHDN để được hỗ trợ.",
+              "source": "@site/docs/danhsach.md",
+              "sourceDirName": ".",
+              "slug": "/danhsach",
+              "permalink": "/docs/danhsach",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/danhsach.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "5.Tài liệu, thư viện và Code",
+                "permalink": "/docs/tutorial-basics/CodeExample"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Giải đáp về dịch vụ",
+              "description": "Dành thời gian chỉ 5 phút, để hiểu hơn về dịch vụ Hóa đơn điện tử máy tính tiền.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Dành cho kế toán",
+                "permalink": "/docs/tutorial-extras/HD-choKeToan"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/BusinessService",
+              "id": "tutorial-basics/BusinessService",
+              "isDocsHomePage": false,
+              "title": "3.Nhóm hàm BusinessService",
+              "description": "Hàm hủy hóa đơn",
+              "source": "@site/docs/tutorial-basics/3.BusinessService.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/BusinessService",
+              "permalink": "/docs/tutorial-basics/BusinessService",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/3.BusinessService.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "2.Nhóm hàm PublishService",
+                "permalink": "/docs/tutorial-basics/PublishService"
+              },
+              "next": {
+                "title": "4.Nhóm hàm PortalService",
+                "permalink": "/docs/tutorial-basics/PortalService"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/CodeExample",
+              "id": "tutorial-basics/CodeExample",
+              "isDocsHomePage": false,
+              "title": "5.Tài liệu, thư viện và Code",
+              "description": "Để hỗ trợ tối đa cho đối tác, tiết kiệm thời gian làm việc của 2 bên. Đội ngũ hóa đơn điện tử VNPT đã chuẩn bị ví dụ code mẫu dưới dây. Qúy đối tác có thể tham khảo.",
+              "source": "@site/docs/tutorial-basics/5.CodeExample.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/CodeExample",
+              "permalink": "/docs/tutorial-basics/CodeExample",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/5.CodeExample.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "4.Nhóm hàm PortalService",
+                "permalink": "/docs/tutorial-basics/PortalService"
+              },
+              "next": {
+                "title": "Danh sách đối tác và HD",
+                "permalink": "/docs/danhsach"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/Mohinhtichhop",
+              "id": "tutorial-basics/Mohinhtichhop",
+              "isDocsHomePage": false,
+              "title": "1.Mô hình và nghiệp vụ",
+              "description": "Dưới đây là sơ đồ mô hình tích hợp Dịch vụ HDDT MTT với phần mềm Bán hàng, MTT:",
+              "source": "@site/docs/tutorial-basics/1.Mohinhtichhop.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/Mohinhtichhop",
+              "permalink": "/docs/tutorial-basics/Mohinhtichhop",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/1.Mohinhtichhop.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dành cho người mua",
+                "permalink": "/docs/tutorial-extras/HD-choNguoiMua"
+              },
+              "next": {
+                "title": "2.Nhóm hàm PublishService",
+                "permalink": "/docs/tutorial-basics/PublishService"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/PortalService",
+              "id": "tutorial-basics/PortalService",
+              "isDocsHomePage": false,
+              "title": "4.Nhóm hàm PortalService",
+              "description": "Là các hàm lấy thông tin hóa đơn",
+              "source": "@site/docs/tutorial-basics/4.PortalService.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/PortalService",
+              "permalink": "/docs/tutorial-basics/PortalService",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/4.PortalService.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "3.Nhóm hàm BusinessService",
+                "permalink": "/docs/tutorial-basics/BusinessService"
+              },
+              "next": {
+                "title": "5.Tài liệu, thư viện và Code",
+                "permalink": "/docs/tutorial-basics/CodeExample"
+              }
+            },
+            {
+              "unversionedId": "tutorial-basics/PublishService",
+              "id": "tutorial-basics/PublishService",
+              "isDocsHomePage": false,
+              "title": "2.Nhóm hàm PublishService",
+              "description": "Hàm phát hành hóa đơn",
+              "source": "@site/docs/tutorial-basics/2.PublishService.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/PublishService",
+              "permalink": "/docs/tutorial-basics/PublishService",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/2.PublishService.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "1.Mô hình và nghiệp vụ",
+                "permalink": "/docs/tutorial-basics/Mohinhtichhop"
+              },
+              "next": {
+                "title": "3.Nhóm hàm BusinessService",
+                "permalink": "/docs/tutorial-basics/BusinessService"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/HD-choKeToan",
+              "id": "tutorial-extras/HD-choKeToan",
+              "isDocsHomePage": false,
+              "title": "Dành cho kế toán",
+              "description": "Đây là hướng dẫn dành cho Kế toán, nhân viên bán hàng .. phía Khách hàng mua dịch vụ HDDT MTT của VNPT.",
+              "source": "@site/docs/tutorial-extras/HD-choKeToan.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/HD-choKeToan",
+              "permalink": "/docs/tutorial-extras/HD-choKeToan",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/HD-choKeToan.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Giải đáp về dịch vụ",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "Dành cho người mua",
+                "permalink": "/docs/tutorial-extras/HD-choNguoiMua"
+              }
+            },
+            {
+              "unversionedId": "tutorial-extras/HD-choNguoiMua",
+              "id": "tutorial-extras/HD-choNguoiMua",
+              "isDocsHomePage": false,
+              "title": "Dành cho người mua",
+              "description": "Hướng dẫn dành cho người mua hàng.",
+              "source": "@site/docs/tutorial-extras/HD-choNguoiMua.md",
+              "sourceDirName": "tutorial-extras",
+              "slug": "/tutorial-extras/HD-choNguoiMua",
+              "permalink": "/docs/tutorial-extras/HD-choNguoiMua",
+              "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/HD-choNguoiMua.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dành cho kế toán",
+                "permalink": "/docs/tutorial-extras/HD-choKeToan"
+              },
+              "next": {
+                "title": "1.Mô hình và nghiệp vụ",
+                "permalink": "/docs/tutorial-basics/Mohinhtichhop"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          }
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          }
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "truncated": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          }
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/blog/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "truncated": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://avatars.githubusercontent.com/u/133833360?s=400&u=23bb4e064a9c56b1486a4efd8e895f3488e5c008&v=4",
+                "imageURL": "https://avatars.githubusercontent.com/u/133833360?s=400&u=23bb4e064a9c56b1486a4efd8e895f3488e5c008&v=4"
+              }
+            ],
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          }
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "previousPage": null,
+            "nextPage": null,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          },
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ]
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "name": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook"
+        },
+        "/blog/tags/hello": {
+          "name": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello"
+        },
+        "/blog/tags/docusaurus": {
+          "name": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus"
+        },
+        "/blog/tags/hola": {
+          "name": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola"
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

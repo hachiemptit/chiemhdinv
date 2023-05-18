@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/CodeExample",
+  "id": "tutorial-basics/CodeExample",
+  "isDocsHomePage": false,
+  "title": "5.Tài liệu, thư viện và Code",
+  "description": "Để hỗ trợ tối đa cho đối tác, tiết kiệm thời gian làm việc của 2 bên. Đội ngũ hóa đơn điện tử VNPT đã chuẩn bị ví dụ code mẫu dưới dây. Qúy đối tác có thể tham khảo.",
+  "source": "@site/docs/tutorial-basics/5.CodeExample.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/CodeExample",
+  "permalink": "/docs/tutorial-basics/CodeExample",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/5.CodeExample.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "4.Nhóm hàm PortalService",
+    "permalink": "/docs/tutorial-basics/PortalService"
+  },
+  "next": {
+    "title": "Danh sách đối tác và HD",
+    "permalink": "/docs/danhsach"
+  }
+}

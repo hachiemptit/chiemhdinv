@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/mohinhtichhop",
+  "id": "tutorial-basics/mohinhtichhop",
+  "isDocsHomePage": false,
+  "title": "MÔ HÌNH VÀ NGHIỆP VỤ",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/tutorial-basics/1-mohinhtichhop.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/mohinhtichhop",
+  "permalink": "/docs/tutorial-basics/mohinhtichhop",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/1-mohinhtichhop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HỎI VÀ GIẢI ĐÁP",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basics/PublishService"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-hdpmmtt/Pos365",
+  "id": "tutorial-hdpmmtt/Pos365",
+  "isDocsHomePage": false,
+  "title": "1. Phần mềm Kiot Việt",
+  "description": "Hàm phát hành hóa đơn",
+  "source": "@site/docs/tutorial-hdpmmtt/1.Pos365.md",
+  "sourceDirName": "tutorial-hdpmmtt",
+  "slug": "/tutorial-hdpmmtt/Pos365",
+  "permalink": "/docs/tutorial-hdpmmtt/Pos365",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-hdpmmtt/1.Pos365.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Danh sách đối tác",
+    "permalink": "/docs/danhsach"
+  }
+}

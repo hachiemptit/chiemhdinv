@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/translate-your-site",
+  "id": "tutorial-extras/translate-your-site",
+  "isDocsHomePage": false,
+  "title": "Hướng dẫn cho người mua",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/tutorial-extras/translate-your-site.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/translate-your-site",
+  "permalink": "/docs/tutorial-extras/translate-your-site",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HD cho kế toán, nhân viên bán hàng",
+    "permalink": "/docs/tutorial-extras/HD-choKeToan"
+  },
+  "next": {
+    "title": "1.Mô hình và nghiệp vụ",
+    "permalink": "/docs/tutorial-basics/Mohinhtichhop"
+  }
+}

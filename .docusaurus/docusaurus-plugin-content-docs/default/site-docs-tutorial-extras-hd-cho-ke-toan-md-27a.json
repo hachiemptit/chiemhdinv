@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-extras/HD-choKeToan",
+  "id": "tutorial-extras/HD-choKeToan",
+  "isDocsHomePage": false,
+  "title": "Dành cho kế toán",
+  "description": "Đây là hướng dẫn dành cho Kế toán, nhân viên bán hàng .. phía Khách hàng mua dịch vụ HDDT MTT của VNPT.",
+  "source": "@site/docs/tutorial-extras/HD-choKeToan.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/HD-choKeToan",
+  "permalink": "/docs/tutorial-extras/HD-choKeToan",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-extras/HD-choKeToan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Giải đáp về dịch vụ",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Dành cho người mua",
+    "permalink": "/docs/tutorial-extras/HD-choNguoiMua"
+  }
+}

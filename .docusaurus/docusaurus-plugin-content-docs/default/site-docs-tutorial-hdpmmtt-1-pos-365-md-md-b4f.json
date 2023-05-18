@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-hdpmmtt/Pos365.md",
+  "id": "tutorial-hdpmmtt/Pos365.md",
+  "isDocsHomePage": false,
+  "title": "2.Nhóm hàm PublishService",
+  "description": "Hàm phát hành hóa đơn",
+  "source": "@site/docs/tutorial-hdpmmtt/1.Pos365.md.md",
+  "sourceDirName": "tutorial-hdpmmtt",
+  "slug": "/tutorial-hdpmmtt/Pos365.md",
+  "permalink": "/docs/tutorial-hdpmmtt/Pos365.md",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-hdpmmtt/1.Pos365.md.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Danh sách đối tác",
+    "permalink": "/docs/danhsach"
+  }
+}

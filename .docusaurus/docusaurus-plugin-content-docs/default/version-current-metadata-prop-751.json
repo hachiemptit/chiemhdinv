@@ -1,0 +1,74 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Giải đáp về dịch vụ",
+        "href": "/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Hướng dẫn sử dụng",
+        "items": [
+          {
+            "type": "link",
+            "label": "Dành cho kế toán",
+            "href": "/docs/tutorial-extras/HD-choKeToan"
+          },
+          {
+            "type": "link",
+            "label": "Dành cho người mua",
+            "href": "/docs/tutorial-extras/HD-choNguoiMua"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Hướng dẫn tích hợp",
+        "items": [
+          {
+            "type": "link",
+            "label": "1.Mô hình và nghiệp vụ",
+            "href": "/docs/tutorial-basics/Mohinhtichhop"
+          },
+          {
+            "type": "link",
+            "label": "2.Nhóm hàm PublishService",
+            "href": "/docs/tutorial-basics/PublishService"
+          },
+          {
+            "type": "link",
+            "label": "3.Nhóm hàm BusinessService",
+            "href": "/docs/tutorial-basics/BusinessService"
+          },
+          {
+            "type": "link",
+            "label": "4.Nhóm hàm PortalService",
+            "href": "/docs/tutorial-basics/PortalService"
+          },
+          {
+            "type": "link",
+            "label": "5.Tài liệu, thư viện và Code",
+            "href": "/docs/tutorial-basics/CodeExample"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Danh sách đối tác và HD",
+        "href": "/docs/danhsach"
+      }
+    ]
+  }
+}

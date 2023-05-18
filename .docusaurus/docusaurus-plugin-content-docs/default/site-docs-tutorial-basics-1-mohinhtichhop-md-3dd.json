@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/Mohinhtichhop",
+  "id": "tutorial-basics/Mohinhtichhop",
+  "isDocsHomePage": false,
+  "title": "1.Mô hình và nghiệp vụ",
+  "description": "Dưới đây là sơ đồ mô hình tích hợp Dịch vụ HDDT MTT với phần mềm Bán hàng, MTT:",
+  "source": "@site/docs/tutorial-basics/1.Mohinhtichhop.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Mohinhtichhop",
+  "permalink": "/docs/tutorial-basics/Mohinhtichhop",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/1.Mohinhtichhop.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dành cho người mua",
+    "permalink": "/docs/tutorial-extras/HD-choNguoiMua"
+  },
+  "next": {
+    "title": "2.Nhóm hàm PublishService",
+    "permalink": "/docs/tutorial-basics/PublishService"
+  }
+}

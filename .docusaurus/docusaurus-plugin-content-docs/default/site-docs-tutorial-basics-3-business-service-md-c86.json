@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/BusinessService",
+  "id": "tutorial-basics/BusinessService",
+  "isDocsHomePage": false,
+  "title": "3.Nhóm hàm BusinessService",
+  "description": "Hàm hủy hóa đơn",
+  "source": "@site/docs/tutorial-basics/3.BusinessService.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/BusinessService",
+  "permalink": "/docs/tutorial-basics/BusinessService",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/3.BusinessService.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2.Nhóm hàm PublishService",
+    "permalink": "/docs/tutorial-basics/PublishService"
+  },
+  "next": {
+    "title": "4.Nhóm hàm PortalService",
+    "permalink": "/docs/tutorial-basics/PortalService"
+  }
+}

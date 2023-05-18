@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/PublishService",
+  "id": "tutorial-basics/PublishService",
+  "isDocsHomePage": false,
+  "title": "4.Nhóm hàm PublishService",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/tutorial-basics/4.PublishService.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/PublishService",
+  "permalink": "/docs/tutorial-basics/PublishService",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/4.PublishService.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.Mô hình và nghiệp vụ",
+    "permalink": "/docs/tutorial-basics/Mohinhtichhop"
+  },
+  "next": {
+    "title": "3.Nhóm hàm BusinessService",
+    "permalink": "/docs/tutorial-basics/BusinessService"
+  }
+}

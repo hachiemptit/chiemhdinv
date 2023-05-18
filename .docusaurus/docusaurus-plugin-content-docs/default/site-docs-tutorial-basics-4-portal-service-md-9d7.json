@@ -1,0 +1,27 @@
+{
+  "unversionedId": "tutorial-basics/PortalService",
+  "id": "tutorial-basics/PortalService",
+  "isDocsHomePage": false,
+  "title": "4.Nhóm hàm PortalService",
+  "description": "Là các hàm lấy thông tin hóa đơn",
+  "source": "@site/docs/tutorial-basics/4.PortalService.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/PortalService",
+  "permalink": "/docs/tutorial-basics/PortalService",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/tutorial-basics/4.PortalService.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "3.Nhóm hàm BusinessService",
+    "permalink": "/docs/tutorial-basics/BusinessService"
+  },
+  "next": {
+    "title": "5.Tài liệu, thư viện và Code",
+    "permalink": "/docs/tutorial-basics/CodeExample"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "danhsach",
+              "path": "/docs/danhsach",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/BusinessService",
+              "path": "/docs/tutorial-basics/BusinessService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/CodeExample",
+              "path": "/docs/tutorial-basics/CodeExample",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/Mohinhtichhop",
+              "path": "/docs/tutorial-basics/Mohinhtichhop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/PortalService",
+              "path": "/docs/tutorial-basics/PortalService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/PublishService",
+              "path": "/docs/tutorial-basics/PublishService",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/HD-choKeToan",
+              "path": "/docs/tutorial-extras/HD-choKeToan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/HD-choNguoiMua",
+              "path": "/docs/tutorial-extras/HD-choNguoiMua",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

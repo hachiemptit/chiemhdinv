@@ -1,0 +1,23 @@
+{
+  "unversionedId": "danhsach",
+  "id": "danhsach",
+  "isDocsHomePage": false,
+  "title": "Danh sách đối tác và HD",
+  "description": "Các đơn vị kinh doanh TTKD VNPT T/TP xin gửi yêu cầu tới BU KDSDN- Ban KHDN để được hỗ trợ.",
+  "source": "@site/docs/danhsach.md",
+  "sourceDirName": ".",
+  "slug": "/danhsach",
+  "permalink": "/docs/danhsach",
+  "editUrl": "https://github.com/facebook/docusaurus/edit/main/website/docs/danhsach.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "5.Tài liệu, thư viện và Code",
+    "permalink": "/docs/tutorial-basics/CodeExample"
+  }
+}
